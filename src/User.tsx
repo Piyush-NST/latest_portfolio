@@ -6,7 +6,7 @@ import {
   IconBrandYoutube,
 } from "@tabler/icons-react";
 const Info = {
-  name: "Ayush Gupta",
+  name: "Piyush",
   stack: [
     "Front end Developer"
   
@@ -16,24 +16,23 @@ const Info = {
 
 const ProjectInfo = [
   {
-    title: "Notes-APP",
-    desc: "The Study Notes App is a user-friendly tool designed to help you organize your study materials by subject. With this app, you can type and save notes for each subject, making it easier to keep track of important information for exams, assignments, and projects. Key features include the ability to edit notes, share them with others for collaborative study, and view them anytime for easy revision. Once notes are no longer needed, they can be deleted with a simple click. Ideal for students looking to streamline their study process and stay organized!.",
+    title: "Shoppy",
+    desc: "A dynamic shopping website built with React, featuring a responsive design for seamless use across devices. Includes real-time shopping cart management with an intuitive user interface.",
     img: "/note.png", // Changed to 'img' for consistency
     live: true,
-    technologies: ["React", "HTML", "CSS"],
-    link: "https://notes-app-wine-one.vercel.app/",
-    github: "https://github.com/ayu3456/NotesApp",
+    technologies: ["HTML", "CSS","JS","React"],
+    link: "https://shopping-website-five-red.vercel.app/",
+    github: "https://github.com/Piyush-NST/Shopping_website",
   },
   
   {
-    title: "Reliance_Clone",
-    desc: "The Reliance Digital Clone is a project I developed to improve my skills in React by recreating the functionality of a modern e-commerce platform. This app provides a realistic online shopping experience where users can browse a wide range of electronic products, add items to their cart, and proceed to checkout. Key features include user authentication with sign-up and login, allowing personalized access, a powerful search feature to quickly find products, and a smooth add-to-cart process. Through this project, I gained hands-on experience with component-based design, state management, and user authentication, enhancing my skills in building responsive, interactive web applications.",
-    // image:
-    //   "https://raw.githubusercontent.com/kushalkumar-shaw/snap-link/main/public/Landing%20page.png",
+    title: "Tomato",
+    desc: "Developed a responsive food delivery app with an intuitive interface, enabling real-time order tracking and user feedback for enhanced customer satisfaction.",
+  
     live: true,
-    technologies: ["React","HTML","Tailwind"],
-    link: "https://reliance-digiinte.vercel.app/",
-    github: "https://github.com/ayu3456/Reliance_App_2",
+    technologies: ["HTML", "CSS","React JS"],
+    link: "https://delivery-plum.vercel.app/",
+    github: "https://github.com/Piyush-NST/Delivery",
   },
 ];
 
@@ -132,20 +131,17 @@ const skillsData = [
 */
 
 const socialLinks = [
-  { link: "https://github.com/ayu3456", icon: IconBrandGithub },
+  { link: "https://github.com/Piyush-NST", icon: IconBrandGithub },
   {
-    link: "https://www.linkedin.com/in/ayush-gupta-6028841a1/",
+    link: "https://www.linkedin.com/in/piyush-kaushal-6232b82b8/",
     icon: IconBrandLinkedin,
   },
   {
-    link: "https://www.instagram.com/",
+    link: "https://www.instagram.com/piyushkaushal30/",
     icon: IconBrandInstagram,
   },
-  {
-    link: "https://www.youtube.com/@AyushGupta-dt7ov",
-    icon: IconBrandYoutube,
-  },
-  { link: "https://leetcode.com/u/ayushgupta2004/", icon: IconBrandLeetcode },
+  
+  { link: "https://leetcode.com/u/Piyushk12/", icon: IconBrandLeetcode }
 ];
 
 
