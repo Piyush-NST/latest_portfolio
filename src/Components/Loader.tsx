@@ -10,7 +10,7 @@ export function Loader() {
         stroke={1.25}
       />
       <div className=" absolute font-mono text-primaryColor font-semibold text-6xl -z-10">
-        AG
+        PK
       </div>
     </div>
   );

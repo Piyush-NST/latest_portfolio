@@ -6,7 +6,7 @@ import {
   IconBrandYoutube,
 } from "@tabler/icons-react";
 const Info = {
-  name: "Piyush",
+  name: "Piyush Kaushal",
   stack: [
     "Front end Developer"
   
@@ -156,17 +156,17 @@ export const EducationInfo = [
   },
   {
     id: 1,
-    img: "jain.jpeg",
-    school: "The Jain Internatiobnal School, Kanpur",
-    date: "May 2022 - Apr 2023",
-    desc: "I completed my class 12 education at The Jain Internatiobnal School, Kanpur where I studied Science with Information Technology.",
+    img: "dps.png",
+    school: "Duhan Public School, Jassia",
+    date: "May 2021 - Apr 2022",
+    desc: "I completed my class 12 education at Duhan Public School, Jassia where I studied Science with Information Technology.",
     degree: "Higher Secondary Certificate (Class 12)",
   },
   {
     id: 2,
-    img: "st.jpeg",
-    school: "St.Judes College, Unnao",
-    date: "May 2020 - Apr 2021",
+    img: "dgv.jpeg",
+    school: "DGV Sr Sec Public School,Rohtak",
+    date: "May 2019 - Apr 2020",
     desc: "I completed my class 10 education at St.Judes College, Unnao where I studied Science with Computer Application.",
     degree: "Secondary School Certificate (Class 10)",
   },

@@ -57,12 +57,12 @@ const Header = () => {
         shadow ? "shadow-[0px_10px_30px_-10px_#020c1b]" : ""
       } transition-transform duration-500 ease-in-out fixed w-full z-10 bg-bgColor h-28 px-10 justify-between items-center xs-mx:px-4 xs-mx:h-20`}
     >
-      <img
+       <img
         src="hr.jpeg"
         alt="HR Logo"
         className="z-10 rounded-full w-15 h-15" // Adjusts the size of the logo
         style={{ width: isMobile ? '45px' : '60px', height: isMobile ? '45px' : '60px' }}
-      />
+      /> 
       <div className="bs:flex gap-8 hidden">{navLinks(false, null)}</div>
       <SideBar />
     </nav>
